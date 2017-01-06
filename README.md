@@ -7,9 +7,10 @@ Please enjoy it!!!
 
 # How to Use
 1. Put sneaky.php at your document root (or else where)
-2. Set your server, redirect all html / htm traffics to this php
+2. Config your apache or Nginx server, redirect all html / htm traffics to this php
 
-# nginx Setting (Redirect All html / htm files to a middleware:sneaky.php)
+# Nginx Server Cofiguration
+# (Redirect All html / htm files to a middleware:sneaky.php)
 
     server {
 
