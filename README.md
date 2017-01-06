@@ -10,7 +10,7 @@ Please enjoy it!!!
 2. Config your apache or Nginx server, redirect all html / htm traffics to this php
 
 # Nginx Server Cofiguration
-# (Redirect All html / htm files to a middleware:sneaky.php)
+Redirect All html / htm files to a middleware:sneaky.php
 
     server {
 
